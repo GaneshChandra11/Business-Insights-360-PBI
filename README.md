@@ -1,5 +1,3 @@
-# Business-Insights-360-PBI
-
 # 📊Business Insights 360📈
 
  📑Project Overview
