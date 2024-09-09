@@ -161,10 +161,14 @@ Fact table : It will have the data about the transactions
 - Following good data modeling practices is essential.
 - In this project, we have followed the **Snowflake data modeling** method.
 
---Image--
+![Screenshot 2024-09-09 131550](https://github.com/user-attachments/assets/e92bc3df-4aba-4337-8f6a-5d1c0ee59e40)
 
 ### 🎨Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+### 🌟Overall Report
+
+---image---
 
 ### 🏡Home view
 
@@ -178,19 +182,58 @@ In the Home view, all the buttons for different views will be available. Users c
 - **Executive View**
 - **Support**
 
-  ### 🌟Overall Report
---Image--
-  💵Finance View
 
- --Image--
+
+
+
+
+https://github.com/user-attachments/assets/10b0807e-db02-40d2-8c2a-e4a99fd3d7be
+
+
+ 
+
+
+
+
+
+### 💵Finance View
+
+ 
+
+https://github.com/user-attachments/assets/d059cc8c-5da2-42cd-b423-1aeb4b4db9ee
+
+
 
  ### 🏷️Sales View
+ 
+
+https://github.com/user-attachments/assets/6b9cce92-d178-434d-8523-63540fdecfd5
+
+
 
  ### 🛒Marketing View
 
+ 
+
+https://github.com/user-attachments/assets/c325c062-432f-4ea6-afa8-f9d77cff0290
+
+
+
  ### 🚚Supply Chain View
 
+ 
+
+https://github.com/user-attachments/assets/99d8de81-10ec-4638-b552-1225ebb60ee8
+
+
+
  ### 👨🏻‍💼Executive View
+
+ 
+
+https://github.com/user-attachments/assets/bfdfcf76-80d8-493c-92ad-5453a86aca9f
+
+
 
 
 ### 🎯Project Outcome
