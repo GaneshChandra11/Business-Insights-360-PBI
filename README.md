@@ -166,10 +166,6 @@ Fact table : It will have the data about the transactions
 ### 🎨Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
-### 🌟Overall Report
-
----image---
-
 ### 🏡Home view
 
 In the Home view, all the buttons for different views will be available. Users can navigate to a specific view page by clicking the corresponding button:
