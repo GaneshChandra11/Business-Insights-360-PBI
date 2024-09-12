@@ -1,6 +1,7 @@
 # 📊Business Insights 360📈
 
-### Dashboard Link : 
+### Dashboard Link : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNGQ4ODdjZTctYmZjNC00OGYyLTk4NjUtNTQ1NmFjODBkZWQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
  📑Project Overview
 
